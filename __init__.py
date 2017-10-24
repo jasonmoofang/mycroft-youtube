@@ -4,7 +4,6 @@ import subprocess
 
 from adapt.intent import IntentBuilder
 from os.path import dirname
-import youtube_dl
 import urllib
 import urllib2
 from bs4 import BeautifulSoup
